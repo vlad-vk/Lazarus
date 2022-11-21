@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units Count="28">
+      <Unit0>
+        <Filename Value="purpljock.ppr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos Y="38"/>
+        <UsageCount Value="206"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="22"/>
+        <CursorPos X="3" Y="292"/>
+        <UsageCount Value="206"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uthread.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="204"/>
+        <CursorPos X="6" Y="214"/>
+        <UsageCount Value="101"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uservice.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="101"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="ureport.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="154"/>
+        <UsageCount Value="103"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="/usr/local/codetyphon/typhon/components/lz_Report/source/lr_class.pas"/>
+        <UnitName Value="LR_Class"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="8998"/>
+        <CursorPos Y="9016"/>
+        <UsageCount Value="1"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="/usr/local/codetyphon/typhon/components/lz_Report/source/lr_view.pas"/>
+        <UnitName Value="LR_View"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="65"/>
+        <CursorPos X="14" Y="81"/>
+        <UsageCount Value="1"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_PowerPDF/source/PdfDoc.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="836"/>
+        <CursorPos Y="1226"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/packages/fcl-base/src/fptimer.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="/usr/local/codetyphon/typhon/components/lz_Report/source/lr_e_txt.pas"/>
+        <UnitName Value="LR_E_TXT"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="164"/>
+        <CursorPos Y="179"/>
+        <UsageCount Value="10"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_PowerPDF/source/PdfImages.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="325"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_PowerPDF/source/PReport.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1714"/>
+        <CursorPos Y="1724"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_PowerPDF/source/PdfTypes.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1081"/>
+        <CursorPos X="2" Y="1118"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_PowerPDF/pl_powerpdf.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="11"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="/usr/local/codetyphon/typhon/components/BaseUtils/lazfileutils.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="369"/>
+        <CursorPos X="18" Y="387"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="/usr/local/codetyphon/typhon/lcl/lazhelphtml.pas"/>
+        <UnitName Value="LazHelpHTML"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="358"/>
+        <CursorPos Y="372"/>
+        <UsageCount Value="3"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/rtl/objpas/sysutils/finah.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="38" Y="18"/>
+        <UsageCount Value="2"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="/usr/local/codetyphon/typhon/components/BaseUtils/lazfileutils.pas"/>
+        <UnitName Value="LazFileUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="634"/>
+        <CursorPos X="22" Y="636"/>
+        <UsageCount Value="2"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="/usr/local/codetyphon/typhon/lcl/lazhelpintf.pas"/>
+        <UnitName Value="LazHelpIntf"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="238"/>
+        <UsageCount Value="3"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_Solutions/source/LSCalendarPopup.pas"/>
+        <ComponentName Value="LSCalendarPopupForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="128"/>
+        <CursorPos X="68" Y="136"/>
+        <UsageCount Value="2"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_Solutions/source/LSCalendarPopup.frm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="51"/>
+        <UsageCount Value="2"/>
+        <DefaultSyntaxHighlighter Value="FRM"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_Solutions/source/LSConfig.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="26"/>
+        <UsageCount Value="2"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_Solutions/source/LSDialogs.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_Solutions/source/LSForms.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <UsageCount Value="2"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="/usr/local/codetyphon/fpcsrc/packages/fcl-db/src/base/db.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1691"/>
+        <CursorPos X="17" Y="1703"/>
+        <UsageCount Value="2"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="/usr/local/codetyphon/typhon/components/lz_Printers/source/printersdlgs.pp"/>
+        <UnitName Value="PrintersDlgs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="45"/>
+        <CursorPos X="14" Y="57"/>
+        <UsageCount Value="2"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="/usr/local/codetyphon/typhon/lcl/interfaces/win32/win32wsdialogs.pp"/>
+        <UnitName Value="Win32WSDialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="3" Y="32"/>
+        <UsageCount Value="2"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="/usr/local/codetyphon/typhon/components/pl_Synapse/source/synautil.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="624"/>
+        <CursorPos X="96" Y="637"/>
+        <UsageCount Value="21"/>
+      </Unit27>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="PExit"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

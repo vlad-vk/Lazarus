@@ -1,0 +1,39 @@
+program purpljock;
+
+{$mode objfpc}{$H+}
+
+uses
+  {$IFDEF UNIX}
+  cthreads,
+  {$ENDIF}
+  Interfaces,
+  {$IFDEF WINDOWS}
+  Windows,
+  {$ENDIF}
+  Forms, pl_dcp, lz_printers, pl_lnet, lz_reportpdfexport,
+  lz_reportcairoexport, Unit1
+  { you can add units after this };
+
+{$R *.res}
+
+{$IFDEF WINDOWS}
+function RunOff: boolean;
+var
+  H: THandle;
+begin
+  H:=OpenMutex(MUTEX_ALL_ACCESS, false, 'PURPLJOCK');
+  Result:=(H<>0);
+  if(H=0)then H:=CreateMutex(nil, false, 'PURPLJOCK');
+end;
+{$ENDIF}
+
+begin
+  {$IFDEF WINDOWS}
+  if(RunOff)then Halt(1);
+  {$ENDIF}
+  RequireDerivedFormResource:=True;
+  Application.Initialize;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
+
